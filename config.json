@@ -1,5 +1,5 @@
 {
-    "token": "bot_tokn",
+    "token": "bot_token",
     "logChannels": {
         "guildMemberAdd": "channel_id",
         "guildMemberRemove": "channel_id",
