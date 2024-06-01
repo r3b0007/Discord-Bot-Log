@@ -1,0 +1,20 @@
+{
+    "token": "bot_tokn",
+    "logChannels": {
+        "guildMemberAdd": "channel_id",
+        "guildMemberRemove": "channel_id",
+        "messageCreate": "channel_id",
+        "messageUpdate": "channel_id",
+        "messageDelete": "channel_id",
+        "roleCreate": "channel_id",
+        "roleUpdate": "channel_id",
+        "roleDelete": "channel_id",
+        "channelCreate": "channel_id",
+        "channelUpdate": "channel_id",
+        "channelDelete": "channel_id",
+        "guildBanAdd": "channel_id",
+        "guildBanRemove": "channel_id",
+        "guildMemberUpdate": "channel_id",
+        "voiceStateUpdate": "channel_id"
+    }
+}
