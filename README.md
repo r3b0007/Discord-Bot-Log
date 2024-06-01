@@ -1,4 +1,4 @@
-# Discord Bot
+# Discord Bot 1.0.0
 
 This Discord bot logs various server events such as member joins, member leaves, message updates, role changes, and more. The logs are sent to specific channels defined in the `config.json` file.
 
